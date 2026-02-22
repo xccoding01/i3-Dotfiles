@@ -3,7 +3,7 @@
 Thème sombre violet/noir avec i3, polybar, rofi, picom et alacritty.
 
 <p align="center">
-  <img src="https://i.redd.it/[ton-image-id-ici].png" alt="Mon setup i3" width="80%"/>
+  <img src="https://preview.redd.it/i3-my-first-rice-ever-on-vbox-v0-ax4qidcy9ljf1.png?width=1080&crop=smart&auto=webp&s=5f99bf6718d5d9d9a87cc96c00fff0bdbfa41caa" alt="Mon setup i3" width="80%"/>
   <br>
   <sub>Premier rice fait sur VirtualBox – EndeavourOS</sub>
 </p>
